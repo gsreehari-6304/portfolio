@@ -1,6 +1,6 @@
 # Sree Hari — Portfolio Website
 
-A responsive portfolio website built with HTML5, CSS3, and vanilla JavaScript.
+A responsive portfolio website built with HTML5, CSS3, and vanilla JavaScript.https://gsreehari-6304.github.io/portfolio/
 
 ## Files
 - `index.html` — portfolio content and semantic page structure.
